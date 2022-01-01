@@ -2,3 +2,6 @@
 
 *.js
 *.css
+assets/scripts/js-autogen
+assets/style/css-autogen
+assets/style/Compiled
