@@ -1,0 +1,4 @@
+# Don't place automatically generated JS or CSS on GitHub, we use CoffeeScript and Stylus instead
+
+*.js
+*.css
